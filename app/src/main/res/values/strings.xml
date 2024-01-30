@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutLearnEnglishWordsApp</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_skip">Skip</string>
+    <string name="_correct">Correct!</string>
+    <string name="_wrong">Wrong!</string>
+    <string name="_continue">Continue</string>
+</resources>
